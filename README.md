@@ -46,6 +46,18 @@ Use the links below as the maintained entry points. The folders retained in this
 | C2 Light | [Repository](https://github.com/tzayadet/C2-Light) | Lab project |
 | Cybersecurity TFM | [Repository](https://github.com/tzayadet/TFM-Ciberseguridad) | Documentation / lab |
 
+## Learning and exercises
+
+| Repository | Focus |
+|---|---|
+| [Pruebas-Codigo](https://github.com/tzayadet/Pruebas-Codigo) | Python fundamentals, command-line utilities and introductory substitution exercises. |
+| [Lost at SQL](https://github.com/tzayadet/SQL-Lost-at-SQL) | Progressive SQL queries, filtering, grouping and aggregation. |
+| [Python](https://github.com/tzayadet/Python) | Python practice and small utilities. |
+| [Java](https://github.com/tzayadet/Java) | Java programming exercises. |
+| [SQL Basics](https://github.com/tzayadet/SQL-Basics) | Relational database and query fundamentals. |
+| [Codewars](https://github.com/tzayadet/Codewars) | Programming kata and SQL practice. |
+| [Learning Journey](https://github.com/tzayadet/Learning-Journey) | Structured learning notes and exercises. |
+
 ## Archive policy
 
 - Do not develop new features in this repository's copied project folders.
