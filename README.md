@@ -15,7 +15,7 @@ Use the links below as the maintained entry points. The folders retained in this
 | HTML2PDF | [Repository](https://github.com/tzayadet/HTML2PDF) | [Live demo](https://tzayadet.github.io/HTML2PDF/) · script-disabled sandboxed previews |
 | Matrix Downloader | [Repository](https://github.com/tzayadet/matrix_downloader) | Desktop app · Windows build |
 | File Analyzer Pro | [Repository](https://github.com/tzayadet/AnalizadorArchivos) | Desktop app · Python standard library · permanent deletion requires explicit confirmation |
-| Game Translator | [Repository](https://github.com/tzayadet/GameTranslator) | Desktop utility · dry-run, backup/restore, safe path checks and preservation of existing language files |
+| Game Translator | [Repository](https://github.com/tzayadet/GameTranslator) | Desktop utility · non-writing dry-run, validated backup/restore and existing-translation protection |
 | Browser Automation Utilities | [Repository](https://github.com/tzayadet/AutoClick_Navegador) | JavaScript browser helpers |
 | CyberSend · WhatsCron | [Repository](https://github.com/tzayadet/Cybersend-WhatsCron) | Spring Boot prototype · manual wa.me links only |
 | NEXUS Viewer | [Repository](https://github.com/tzayadet/visor) | [Live demo](https://tzayadet.github.io/visor/) |
@@ -38,12 +38,12 @@ Use the links below as the maintained entry points. The folders retained in this
 | Honey Recruiting Cyber | [Repository](https://github.com/tzayadet/HoneyRecruitingCyber) | [Static project overview](https://tzayadet.github.io/HoneyRecruitingCyber/) · Flask backend runs separately |
 | OSINT Asset Extractor | [Repository](https://github.com/tzayadet/OSINT-Asset-Extractor) | [Web experiment](https://tzayadet.github.io/OSINT-Asset-Extractor/) |
 | Malware Research Hub | [Repository](https://github.com/tzayadet/Malware-Research-Hub) | Research catalogue · fork; malware samples require isolated handling |
-| OSINT Correlator | [Repository](https://github.com/tzayadet/OSINT-Correlator) | CLI / Docker |
-| IaC Scanner | [Repository](https://github.com/tzayadet/Escaner-IaC) | CLI / Docker |
-| Forensic Toolkit | [Repository](https://github.com/tzayadet/Toolkit-Forense) | CLI / Docker |
-| Log Pipeline | [Repository](https://github.com/tzayadet/Pipeline-de-Logs) | Lab / Docker |
-| SSH Honeypot | [Repository](https://github.com/tzayadet/Honeypot-SSH) | Lab project |
-| C2 Light | [Repository](https://github.com/tzayadet/C2-Light) | Lab project |
+| DNS Intelligence & Enrichment | [Repository](https://github.com/tzayadet/OSINT-Correlator) | Dual-stack DNS/PTR enrichment · IDNA normalization · CLI / Docker |
+| IaC Secret Scanner | [Repository](https://github.com/tzayadet/Escaner-IaC) | Heuristic secret detection in IaC and configuration · symlink-safe · CLI / Docker |
+| Forensic File Integrity | [Repository](https://github.com/tzayadet/Toolkit-Forense) | SHA-256 inventory and metadata for verified evidence copies · symlink-safe · CLI / Docker |
+| JSONL Detection Engine | [Repository](https://github.com/tzayadet/Pipeline-de-Logs) | YAML/regex event detection over JSON Lines · prototype · Docker |
+| SSH Deception Lab | [Repository](https://github.com/tzayadet/Honeypot-SSH) | Paramiko honeypot · authentication metadata and command-attempt logging without execution |
+| C2-Lite Lab | [Repository](https://github.com/tzayadet/C2-Light) | Experimental client/server prototype · unsafe shell execution documented · isolated lab only |
 | Cybersecurity TFM | [Repository](https://github.com/tzayadet/TFM-Ciberseguridad) | Documentation / lab |
 
 ## Learning and exercises
