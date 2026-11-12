@@ -10,7 +10,7 @@ Use the links below as the maintained entry points. The folders retained in this
 |---|---|---|
 | Tactical Recruiting | [Public source](https://github.com/tzayadet/TacticalRecruiting) | [Demo files](https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo) · Pages activation pending |
 | Cyber Recruit | [Repository](https://github.com/tzayadet/Cyber-Recruit) | [Live demo](https://tzayadet.github.io/Cyber-Recruit/) |
-| GameTracker | [Repository](https://github.com/tzayadet/GameTracker) | [Static preview](https://tzayadet.github.io/GameTracker/) · prototype, not an integrated release |
+| GameTracker | [Repository](https://github.com/tzayadet/GameTracker) | [Static preview](https://tzayadet.github.io/GameTracker/) · React/TypeScript frontend build verified; backend remains incomplete |
 | PassGen | [Repository](https://github.com/tzayadet/PassGen) | [Live demo](https://tzayadet.github.io/PassGen/) |
 | HTML2PDF | [Repository](https://github.com/tzayadet/HTML2PDF) | [Live demo](https://tzayadet.github.io/HTML2PDF/) |
 | Matrix Downloader | [Repository](https://github.com/tzayadet/matrix_downloader) | Desktop app · Windows build |
