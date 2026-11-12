@@ -38,6 +38,23 @@
     header .breadcrumb { color: var(--text-muted); font-size: 0.85rem; }
     header .actions { display: flex; gap: 0.5rem; }
     
+    .demo-notice {
+      margin-bottom: 1rem;
+      padding: 0.8rem 1rem;
+      border: 1px solid rgba(245,158,11,0.45);
+      border-left: 4px solid var(--warning);
+      border-radius: var(--radius);
+      background: rgba(245,158,11,0.08);
+      color: var(--text);
+      font-size: 0.82rem;
+    }
+    .demo-notice strong {
+      display: block;
+      margin-bottom: 0.2rem;
+      color: #fbbf24;
+      letter-spacing: 0.04em;
+    }
+
     /* Components */
     .card { background: var(--surface); border-radius: var(--radius); padding: 1.2rem; margin-bottom: 1rem; box-shadow: var(--shadow); border: 1px solid var(--border); }
     .grid { display: grid; gap: 1rem; }
@@ -91,6 +108,11 @@
       <nav id="nav-menu"></nav>
     </aside>
     <main class="main">
+      <div class="demo-notice" role="note">
+        <strong>DEMO / DATOS FICTICIOS</strong>
+        Esta aplicación funciona solo en tu navegador y guarda los cambios en localStorage.
+        No introduzcas CV, direcciones de correo ni datos reales de candidatos.
+      </div>
       <header>
         <div>
           <h1 id="page-title">Dashboard</h1>
