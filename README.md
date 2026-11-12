@@ -37,7 +37,7 @@ Use the links below as the maintained entry points. The folders retained in this
 | CyberOps Monitor | [Repository](https://github.com/tzayadet/CyberOps-Monitor) | [Static simulation](https://tzayadet.github.io/CyberOps-Monitor/) |
 | Honey Recruiting Cyber | [Repository](https://github.com/tzayadet/HoneyRecruitingCyber) | [Static project overview](https://tzayadet.github.io/HoneyRecruitingCyber/) · Flask backend runs separately |
 | OSINT Asset Extractor | [Repository](https://github.com/tzayadet/OSINT-Asset-Extractor) | [Web experiment](https://tzayadet.github.io/OSINT-Asset-Extractor/) |
-| Glass Sentinel | [Repository](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) | Python detection exercise · authentication/export correlation · tests |
+| Glass Sentinel | [Repository](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) | Python detection exercise · synthetic event showcase prepared in `docs/` · Pages activation pending |
 | DNS Intelligence & Enrichment | [Repository](https://github.com/tzayadet/OSINT-Correlator) | Dual-stack DNS/PTR enrichment · IDNA normalization · CLI / Docker |
 | IaC Secret Scanner | [Repository](https://github.com/tzayadet/Escaner-IaC) | Heuristic secret detection in IaC and configuration · symlink-safe · CLI / Docker |
 | Forensic File Integrity | [Repository](https://github.com/tzayadet/Toolkit-Forense) | SHA-256 inventory and metadata for verified evidence copies · symlink-safe · CLI / Docker |
