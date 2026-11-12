@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>📋 App RRHH Integral | Demo Alvatross</title>
+  <title>Tactical Recruiting | IT Talent Demo</title>
   <style>
     :root {
       --bg: #0f172a;
@@ -120,12 +120,12 @@
     // ==========================================
     const SEED_DATA = {
       candidates: [
-        { id: "20260101120000", nombre: "Carlos Méndez", email: "carlos.m@techmail.com", perfil_it: "backend", seniority: "senior", estado: "activo", experiencia_total: 6, stack_lenguajes: "Java, Python", cv_filename: "cv_carlos.pdf" },
-        { id: "20260102143000", nombre: "Laura Gómez", email: "laura.g@devops.es", perfil_it: "devops", seniority: "mid", estado: "entrevista", experiencia_total: 4, stack_lenguajes: "Docker, K8s, Terraform", cv_filename: null },
-        { id: "20260103091500", nombre: "Miguel Ángel Ruiz", email: "miguel.a@qa.net", perfil_it: "qa", seniority: "junior", estado: "activo", experiencia_total: 2, stack_lenguajes: "Selenium, Cypress, Postman", cv_filename: "cv_miguel.pdf" }
+        { id: "20260101120000", nombre: "Alex Rivera", email: "alex.rivera@example.com", perfil_it: "backend", seniority: "senior", estado: "activo", experiencia_total: 6, stack_lenguajes: "Java, Python", cv_filename: "cv_alex_rivera_sample.pdf" },
+        { id: "20260102143000", nombre: "Sam Taylor", email: "sam.taylor@example.com", perfil_it: "devops", seniority: "mid", estado: "entrevista", experiencia_total: 4, stack_lenguajes: "Docker, K8s, Terraform", cv_filename: null },
+        { id: "20260103091500", nombre: "Jordan Lee", email: "jordan.lee@example.com", perfil_it: "qa", seniority: "junior", estado: "activo", experiencia_total: 2, stack_lenguajes: "Selenium, Cypress, Postman", cv_filename: "cv_miguel.pdf" }
       ],
       vacancies: [
-        { id: "VAC-2026-001", titulo: "Backend Developer", departamento: "Desarrollo", ubicacion: "Remoto", modalidad: "Remoto_Total", urgencia: "alta", estado: "abierta", stack_obligatorio: "Java/Spring Boot, TM Forum APIs" },
+        { id: "VAC-2026-001", titulo: "Backend Developer", departamento: "Desarrollo", ubicacion: "Remoto", modalidad: "Remoto_Total", urgencia: "alta", estado: "abierta", stack_obligatorio: "Java/Spring Boot, APIs REST" },
         { id: "VAC-2026-002", titulo: "DevOps Engineer", departamento: "Infraestructura", ubicacion: "Madrid", modalidad: "Híbrido", urgencia: "media", estado: "abierta", stack_obligatorio: "Kubernetes, CI/CD, AWS" }
       ],
       questions: [
@@ -394,7 +394,7 @@
           case 'questions': container.innerHTML = UI.questions(); break;
           case 'tasks': container.innerHTML = UI.tasks(); break;
           case 'profiles': container.innerHTML = UI.staticModule('Perfiles Empresa', JSON.stringify(DB.profiles, null, 2).replace(/["{}]/g,'')); break;
-          case 'presentation': container.innerHTML = UI.staticModule('Presentación Alvatross', 'ALVATROSS (Grupo SATEC)\nEspecializada en OSS/BSS y TM Forum Open APIs.\nCloud-native, microservicios, arquitectura ODA.\nMadrid / Avilés | Great Place to Work'); break;
+          case 'presentation': container.innerHTML = UI.staticModule('Presentación de la organización demo', 'NORTHSTAR TALENT (DEMO ORGANIZATION)\nEspecializada en OSS/BSS y APIs de telecomunicaciones.\nCloud-native, microservicios, arquitectura ODA.\nRemoto / Híbrido | Great Place to Work'); break;
           default: container.innerHTML = `<div class="card"><p>🚧 Módulo "${view}" cargado. Demo funcional lista para expansión.</p></div>`;
         }
       },
