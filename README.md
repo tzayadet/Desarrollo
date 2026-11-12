@@ -11,10 +11,10 @@ Use the links below as the maintained entry points. The folders retained in this
 | Tactical Recruiting | [Public source](https://github.com/tzayadet/TacticalRecruiting) | [Demo files](https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo) · Pages activation pending |
 | Cyber Recruit | [Repository](https://github.com/tzayadet/Cyber-Recruit) | [Live demo](https://tzayadet.github.io/Cyber-Recruit/) |
 | GameTracker | [Repository](https://github.com/tzayadet/GameTracker) | [Static preview](https://tzayadet.github.io/GameTracker/) · React/TypeScript build and Java/Spring Boot verification pass; end-to-end authentication remains incomplete |
-| PassGen | [Repository](https://github.com/tzayadet/PassGen) | [Live demo](https://tzayadet.github.io/PassGen/) |
-| HTML2PDF | [Repository](https://github.com/tzayadet/HTML2PDF) | [Live demo](https://tzayadet.github.io/HTML2PDF/) |
+| PassGen | [Repository](https://github.com/tzayadet/PassGen) | [Live demo](https://tzayadet.github.io/PassGen/) · browser Web Crypto API |
+| HTML2PDF | [Repository](https://github.com/tzayadet/HTML2PDF) | [Live demo](https://tzayadet.github.io/HTML2PDF/) · script-disabled sandboxed previews |
 | Matrix Downloader | [Repository](https://github.com/tzayadet/matrix_downloader) | Desktop app · Windows build |
-| File Analyzer Pro | [Repository](https://github.com/tzayadet/AnalizadorArchivos) | Desktop app · Python standard library |
+| File Analyzer Pro | [Repository](https://github.com/tzayadet/AnalizadorArchivos) | Desktop app · Python standard library · permanent deletion requires explicit confirmation |
 | Game Translator | [Repository](https://github.com/tzayadet/GameTranslator) | Desktop utility · dry-run, backup/restore, safe path checks and preservation of existing language files |
 | Browser Automation Utilities | [Repository](https://github.com/tzayadet/AutoClick_Navegador) | JavaScript browser helpers |
 | CyberSend · WhatsCron | [Repository](https://github.com/tzayadet/Cybersend-WhatsCron) | Spring Boot prototype · manual wa.me links only |
