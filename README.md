@@ -13,6 +13,10 @@ Use the links below as the maintained entry points. The folders retained in this
 | GameTracker | [Repository](https://github.com/tzayadet/GameTracker) | [Static preview](https://tzayadet.github.io/GameTracker/) · prototype, not an integrated release |
 | PassGen | [Repository](https://github.com/tzayadet/PassGen) | [Live demo](https://tzayadet.github.io/PassGen/) |
 | HTML2PDF | [Repository](https://github.com/tzayadet/HTML2PDF) | [Live demo](https://tzayadet.github.io/HTML2PDF/) |
+| Matrix Downloader | [Repository](https://github.com/tzayadet/matrix_downloader) | Desktop app · Windows build |
+| File Analyzer Pro | [Repository](https://github.com/tzayadet/AnalizadorArchivos) | Desktop app · Python standard library |
+| Game Translator | [Repository](https://github.com/tzayadet/GameTranslator) | Desktop utility · local patching |
+| CyberSend · WhatsCron | [Repository](https://github.com/tzayadet/Cybersend-WhatsCron) | Spring Boot prototype · manual wa.me links only |
 | NEXUS Viewer | [Repository](https://github.com/tzayadet/visor) | [Live demo](https://tzayadet.github.io/visor/) |
 | CV Cyberplayer | [Repository](https://github.com/tzayadet/CV_Cyberplayer) | [Live demo](https://tzayadet.github.io/CV_Cyberplayer/) |
 | Digivice | [Repository](https://github.com/tzayadet/Digimon) | [Live demo](https://tzayadet.github.io/Digimon/) |
@@ -31,6 +35,7 @@ Use the links below as the maintained entry points. The folders retained in this
 | CyberOps Monitor | [Repository](https://github.com/tzayadet/CyberOps-Monitor) | [Static simulation](https://tzayadet.github.io/CyberOps-Monitor/) |
 | Honey Recruiting Cyber | [Repository](https://github.com/tzayadet/HoneyRecruitingCyber) | [Static project overview](https://tzayadet.github.io/HoneyRecruitingCyber/) · Flask backend runs separately |
 | OSINT Asset Extractor | [Repository](https://github.com/tzayadet/OSINT-Asset-Extractor) | [Web experiment](https://tzayadet.github.io/OSINT-Asset-Extractor/) |
+| Malware Research Hub | [Repository](https://github.com/tzayadet/Malware-Research-Hub) | Research catalogue · fork; malware samples require isolated handling |
 | OSINT Correlator | [Repository](https://github.com/tzayadet/OSINT-Correlator) | CLI / Docker |
 | IaC Scanner | [Repository](https://github.com/tzayadet/Escaner-IaC) | CLI / Docker |
 | Forensic Toolkit | [Repository](https://github.com/tzayadet/Toolkit-Forense) | CLI / Docker |
