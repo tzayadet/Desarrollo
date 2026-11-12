@@ -37,7 +37,7 @@ Use the links below as the maintained entry points. The folders retained in this
 | CyberOps Monitor | [Repository](https://github.com/tzayadet/CyberOps-Monitor) | [Static simulation](https://tzayadet.github.io/CyberOps-Monitor/) |
 | Honey Recruiting Cyber | [Repository](https://github.com/tzayadet/HoneyRecruitingCyber) | [Static project overview](https://tzayadet.github.io/HoneyRecruitingCyber/) · Flask backend runs separately |
 | OSINT Asset Extractor | [Repository](https://github.com/tzayadet/OSINT-Asset-Extractor) | [Web experiment](https://tzayadet.github.io/OSINT-Asset-Extractor/) |
-| Malware Research Hub | [Repository](https://github.com/tzayadet/Malware-Research-Hub) | Research catalogue · fork; malware samples require isolated handling |
+| Glass Sentinel | [Repository](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) | Python detection exercise · authentication/export correlation · tests |
 | DNS Intelligence & Enrichment | [Repository](https://github.com/tzayadet/OSINT-Correlator) | Dual-stack DNS/PTR enrichment · IDNA normalization · CLI / Docker |
 | IaC Secret Scanner | [Repository](https://github.com/tzayadet/Escaner-IaC) | Heuristic secret detection in IaC and configuration · symlink-safe · CLI / Docker |
 | Forensic File Integrity | [Repository](https://github.com/tzayadet/Toolkit-Forense) | SHA-256 inventory and metadata for verified evidence copies · symlink-safe · CLI / Docker |
@@ -56,6 +56,7 @@ Use the links below as the maintained entry points. The folders retained in this
 | [Java](https://github.com/tzayadet/Java) | Java programming exercises. |
 | [SQL Basics](https://github.com/tzayadet/SQL-Basics) | Relational database and query fundamentals. |
 | [Codewars](https://github.com/tzayadet/Codewars) | Programming kata and SQL practice. |
+| [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) | Personal SQL query exercises. |
 | [Learning Journey](https://github.com/tzayadet/Learning-Journey) | Structured learning notes and exercises. |
 
 ## Archive policy
