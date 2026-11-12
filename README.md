@@ -8,7 +8,7 @@ Use the links below as the maintained entry points. The folders retained in this
 
 | Project | Source repository | Demo / preview |
 |---|---|---|
-| Tactical Recruiting | [Private source](https://github.com/tzayadet/TacticalRecruiting) | [Demo deployment](https://tzayadet.github.io/TacticalRecruiting/) · Pages activation pending |
+| Tactical Recruiting | [Public source](https://github.com/tzayadet/TacticalRecruiting) | [Demo files](https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo) · Pages activation pending |
 | Cyber Recruit | [Repository](https://github.com/tzayadet/Cyber-Recruit) | [Live demo](https://tzayadet.github.io/Cyber-Recruit/) |
 | GameTracker | [Repository](https://github.com/tzayadet/GameTracker) | [Static preview](https://tzayadet.github.io/GameTracker/) · prototype, not an integrated release |
 | PassGen | [Repository](https://github.com/tzayadet/PassGen) | [Live demo](https://tzayadet.github.io/PassGen/) |
